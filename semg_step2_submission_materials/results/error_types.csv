@@ -1,0 +1,4 @@
+Model,angle_only,gesture_only,both
+SVM,1061,1544,1202
+RF,720,991,823
+XGB,768,1045,844

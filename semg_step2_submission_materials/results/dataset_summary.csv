@@ -1,0 +1,3 @@
+split,trials,windows,features
+train,1536,29184,25
+test,384,7296,25

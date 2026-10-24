@@ -1,0 +1,15 @@
+{
+  "fs": 1000,
+  "window": 200,
+  "hop": 100,
+  "trial_len": 5000,
+  "segment_offset_from_mark": 1500,
+  "segment_len": 2000,
+  "seed": 42,
+  "data_revision": "cb64ded658b83ae97e6388dd373efad0e97bc47c",
+  "segmentation": "mark rising edge + 1.5s for 2s (assumption)",
+  "filtering": "additional notch60 Q30 then bandpass20-450 order4",
+  "cv_scope": "all trials, separately from hold-out; not external test",
+  "macro_average": true,
+  "cv_std_ddof": 0
+}
